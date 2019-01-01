@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 22px;
+    text-align: left;
+    color: #a3c1ad;
+    font-family: sans-serif;   
+    padding: 10px;
+    display: inline;
+}
+
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+input[type="submit"] {
+    background: red;
+    color: white;
+}
+
+div{
+    height: 120px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    resize: none;
+}
+
+img{
+    margin-bottom: 20px;
+    resize: none;
+}
+
+mark{
+    
+    background-color: yellow;
+    color: black;
+}
+
+.heart{
+    color:#e25555;
+}
+
+.made{
+
+    color: #48b695;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+
+}
